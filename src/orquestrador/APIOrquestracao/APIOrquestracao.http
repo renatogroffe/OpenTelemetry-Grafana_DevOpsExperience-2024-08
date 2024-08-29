@@ -1,0 +1,7 @@
+@APIOrquestracao_HostAddress = http://localhost:5120
+
+GET {{APIOrquestracao_HostAddress}}/orquestracao/
+Accept: application/json
+Canal: Sharebook
+
+###

@@ -1,0 +1,12 @@
+# @name Orquestracao
+GET http://localhost:5120/orquestracao
+
+###
+
+# @name ContagemPostgres
+GET http://localhost:5259/contador
+
+###
+
+# @name ContagemMySql
+GET http://localhost:5260/contador
