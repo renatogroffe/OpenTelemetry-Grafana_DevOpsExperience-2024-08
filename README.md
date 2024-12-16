@@ -9,7 +9,7 @@ Tipo do evento: **Online**
 
 Ferramenta de transmissão: **Zoom**
 
-Tecnologias utilizadas: **Grafana, OpenTelemetry, Docker, Docker Compose, Linux, Grafana Tempo, Loki, Prometheus, PostgreSQL, MySQL .NET, ASP.NET Core**
+Tecnologias utilizadas: **Grafana, OpenTelemetry, Docker, Docker Compose, Linux, Grafana Tempo, Loki, Prometheus, PostgreSQL, MySQL, .NET, ASP.NET Core**
 
 Número de participantes: **150 pessoas (pico de audiência ao longo da live)**
 
