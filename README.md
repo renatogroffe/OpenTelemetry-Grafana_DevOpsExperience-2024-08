@@ -21,6 +21,12 @@ Deixo aqui meus agradecimentos ao **Daniel Ginês** e à **Aline Martins** por t
 
 ![alt](img/audiencia.png)
 
+![alt](img/g-12.png)
+
+![alt](img/g-17.png)
+
+![alt](img/divulgacao.png)
+
 ---
 
 ## Aplicação demonstrada na palestra
