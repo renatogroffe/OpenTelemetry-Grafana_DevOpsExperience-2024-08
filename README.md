@@ -27,6 +27,8 @@ Deixo aqui meus agradecimentos ao **Daniel Ginês** e à **Aline Martins** por t
 
 ![alt](img/divulgacao.png)
 
+Outros prints podem ser encontrados neste [**diretório**](/img/).
+
 ---
 
 ## Aplicação demonstrada na palestra
