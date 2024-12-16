@@ -1,7 +1,7 @@
 # OpenTelemetry-Grafana_DevOpsExperience-2024-08
 Conteúdos sobre OpenTelemetry + Grafana de apresentação realizada durante a edição de Agosto-2024 do DevOps Experience.
 
-Título da apresentação: **Observabilidade e Monitoramento de Aplicações com OpenTelemetry + stack Grafana3**
+Título da apresentação: **Observabilidade e Monitoramento de Aplicações com OpenTelemetry + stack Grafana**
 
 Data: **29/08/2024 (quinta-feira)**
 
